@@ -1,0 +1,66 @@
+input{
+    width: 170%;
+  }
+  #butt{
+      margin-left: 500%;
+  }
+  .cart-nav{
+    float:left;
+    margin-left: 160px;
+    }
+#cart{
+  float:left;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  padding: 25px;
+  margin: 5px;
+  }
+p{
+ text-align: left;
+
+
+ }
+ .card{
+    position: fixed;
+  right: 1em;
+  top: 90px;
+  width: 350px;
+  background-color: #FFF;
+  border: 1px solid #CCC;
+  box-shadow: 0 5px 15px rgba(0,0,0, 0.2);   
+}
+#xyz td{
+    padding: 30px;
+}
+ .input-group{
+    width: 40%;
+}
+#qua{
+    width: 30px;
+
+}
+.bt1{
+    color: black;
+}
+ #cart select{
+          width:200px;
+          height:25px;
+     }
+          #button{
+        
+              margin-top: -30px;
+              margin-left: 100px;
+              font-size:13px;
+              
+          }
+         button{
+             
+             color: white;
+                }
+thead{
+    padding:10px
+}  
+thead th{
+    padding:0px 30px
+}       
+ 
