@@ -37,9 +37,9 @@ export class ProductsComponent  {
     "<td style='padding:0px 30px'>"+value.quantity+"</td>"
     "</tr>"
     //document.getElementById("xyz").innerHTML=x;
-    var row = document.getElementById("xyz");
-    var y = row.insertRow(0);
-    y.innerHTML = x;
+    // var row = document.getElementById("xyz");
+    // var y = row.insertRow(0);
+    // y.innerHTML = x;
    });
     }
    
