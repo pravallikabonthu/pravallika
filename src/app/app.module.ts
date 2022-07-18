@@ -7,6 +7,7 @@ import { CheckoutComponent } from './checkout/checkout.component';
 import{FormsModule}from '@angular/forms';
 import{Ng2SearchPipeModule}from 'ng2-search-filter';
 import{RouterModule, Router, ROUTES, RoutesRecognized}from '@angular/router';
+import { PriceComponent } from './price/price.component';
 
 const routes:any=[{
   path: '', redirectTo: 'products', pathMatch: 'full'
@@ -20,7 +21,8 @@ const routes:any=[{
   declarations: [
     AppComponent,
     ProductsComponent,
-    CheckoutComponent
+    CheckoutComponent,
+    PriceComponent
   ],
   imports: [
     BrowserModule,
